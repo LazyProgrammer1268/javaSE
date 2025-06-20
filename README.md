@@ -1,2 +1,2 @@
 # javaSE
-lets enter into a java new world
+lets enter into a java world
